@@ -26,7 +26,7 @@ internal string Location;
         [JsonProperty("origin")]      internal int Origin;
         [JsonProperty("badge")]       internal int Badge;
 
-        [JsonProperty("required_trophies)]    internal int RequiredTrophies;
+        [JsonProperty("required_trophies)] internal int RequiredTrophies;
         [JsonProperty("war_frequency")]  internal int WarFreguency;
 
         [JsonProperty("members")]  internal int Members;
