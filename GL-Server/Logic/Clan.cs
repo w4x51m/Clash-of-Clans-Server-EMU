@@ -6,7 +6,7 @@
 
     using Newtonsoft.Json;
 
-    internal class Clana
+    internal class Clan
     {
         [JsonProperty("high_id")]     internal int HighID;
         [JsonProperty("low_id")]      internal int LowID;
