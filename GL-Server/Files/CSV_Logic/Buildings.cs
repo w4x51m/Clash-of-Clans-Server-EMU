@@ -246,7 +246,7 @@ namespace GL.Servers.CoC.Files.CSV_Logic
 
         public bool IsSpellForge() => ForgesSpells || ForgesMiniSpells;
 
-        public bool IsAllianceCastle() => Name == "AllianceCastle"
+        public bool IsAllianceCastle() => Name == "AllianceCastle";
 
         public override bool IsTownHall() => BuildingClass == "Town Hall";
         public override bool IsTownHall2() => BuildingClass == "Town Hall2";
