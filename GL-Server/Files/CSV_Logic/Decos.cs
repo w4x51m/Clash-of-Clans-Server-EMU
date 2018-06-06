@@ -39,7 +39,7 @@ namespace GL.Servers.CoC.Files.CSV_Logic
         public bool DecoPath { get; set; }
 
         public int GetBuildCost() => BuildCost;
-        pubkic int GetMaxCount() => MaxCount;
+        public int GetMaxCount() => MaxCount;
         public int GetRequiredExpLevel() => RequiredExpLevel;
 
         public ResourceData GetBuildResource() => CSVManager.DataTables.GetResourceByName(BuildResource);
