@@ -42,7 +42,7 @@ namespace GL.Servers.CoC.Logic
         [JsonProperty("region")]            internal string Region;
 
         [JsonProperty("lvl")]               internal int Level              = 21;
-        [JsonProperty("xp")]                internal int Experience;              = 500;
+        [JsonProperty("xp")]                internal int Experience              = 500;
 
         [JsonProperty("league_type")]       internal int League;
         [JsonProperty("score")]             internal int Score;
@@ -59,11 +59,11 @@ namespace GL.Servers.CoC.Logic
         [JsonProperty("o_season_rank")]     internal int OldSeasonRank;
         [JsonProperty("o_season_score")]    internal int OldSeasonScore;
 
-        [JsonProperty("wins")]              internal int Wins;              = 100;
+        [JsonProperty("wins")]              internal int Wins              = 100;
         [JsonProperty("loses")]             internal int Loses;
-        [JsonProperty("t_wins")]            internal int TotalWins;              = 20;
-        [JsonProperty("defense_wins")]      internal int DefenseWins;
-        [JsonProperty("t_defense_wins")]    internal int TotalDefenseWins;              = 1;
+        [JsonProperty("t_wins")]            internal int TotalWins              = 120;
+        [JsonProperty("defense_wins")]      internal int DefenseWins              = 20;
+        [JsonProperty("t_defense_wins")]    internal int TotalDefenseWins              = 25;
         [JsonProperty("defense_loses")]     internal int DefenseLoses;
         [JsonProperty("troop_received")]    internal int TroopReceived;
         [JsonProperty("troop_sended")]      internal int TroopSended;
