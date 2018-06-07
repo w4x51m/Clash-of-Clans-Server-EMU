@@ -21,13 +21,27 @@ namespace GL.Servers.CoC
             Console.SetBufferSize(Console.WindowWidth, Console.WindowHeight);
 
             Servers.Core.Consoles.Colorful.Console.WriteWithGradient(@"
-  __  ___   ______    ________    ______     _______  __       __    __  
- |  |/  /  /  __  \  |       /   /  __  \   /  _____||  |     |  |  |  | 
- |  '  /  |  |  |  | `---/  /   |  |  |  | |  |  __  |  |     |  |  |  | 
- |    <   |  |  |  |    /  /    |  |  |  | |  | |_ | |  |     |  |  |  | 
- |  .  \  |  `--'  |   /  /----.|  `--'  | |  |__| | |  `----.|  `--'  | 
- |__|\__\  \______/   /________| \______/   \______| |_______| \______/  
-                                                                         
+ 
+                                                                                                                         
+                                                                                                                         
+KKKKKKKKK    KKKKKKK     OOOOOOOOO     ZZZZZZZZZZZZZZZZZZZ     OOOOOOOOO     LLLLLLLLLLL            UUUUUUUU     UUUUUUUU
+K:::::::K    K:::::K   OO:::::::::OO   Z:::::::::::::::::Z   OO:::::::::OO   L:::::::::L            U::::::U     U::::::U
+K:::::::K    K:::::K OO:::::::::::::OO Z:::::::::::::::::Z OO:::::::::::::OO L:::::::::L            U::::::U     U::::::U
+K:::::::K   K::::::KO:::::::OOO:::::::OZ:::ZZZZZZZZ:::::Z O:::::::OOO:::::::OLL:::::::LL            UU:::::U     U:::::UU
+KK::::::K  K:::::KKKO::::::O   O::::::OZZZZZ     Z:::::Z  O::::::O   O::::::O  L:::::L               U:::::U     U:::::U 
+  K:::::K K:::::K   O:::::O     O:::::O        Z:::::Z    O:::::O     O:::::O  L:::::L               U:::::D     D:::::U 
+  K::::::K:::::K    O:::::O     O:::::O       Z:::::Z     O:::::O     O:::::O  L:::::L               U:::::D     D:::::U 
+  K:::::::::::K     O:::::O     O:::::O      Z:::::Z      O:::::O     O:::::O  L:::::L               U:::::D     D:::::U 
+  K:::::::::::K     O:::::O     O:::::O     Z:::::Z       O:::::O     O:::::O  L:::::L               U:::::D     D:::::U 
+  K::::::K:::::K    O:::::O     O:::::O    Z:::::Z        O:::::O     O:::::O  L:::::L               U:::::D     D:::::U 
+  K:::::K K:::::K   O:::::O     O:::::O   Z:::::Z         O:::::O     O:::::O  L:::::L               U:::::D     D:::::U 
+KK::::::K  K:::::KKKO::::::O   O::::::OZZZ:::::Z     ZZZZZO::::::O   O::::::O  L:::::L         LLLLLLU::::::U   U::::::U 
+K:::::::K   K::::::KO:::::::OOO:::::::OZ::::::ZZZZZZZZ:::ZO:::::::OOO:::::::OLL:::::::LLLLLLLLL:::::LU:::::::UUU:::::::U 
+K:::::::K    K:::::K OO:::::::::::::OO Z:::::::::::::::::Z OO:::::::::::::OO L::::::::::::::::::::::L UU:::::::::::::UU  
+K:::::::K    K:::::K   OO:::::::::OO   Z:::::::::::::::::Z   OO:::::::::OO   L::::::::::::::::::::::L   UU:::::::::UU    
+KKKKKKKKK    KKKKKKK     OOOOOOOOO     ZZZZZZZZZZZZZZZZZZZ     OOOOOOOOO     LLLLLLLLLLLLLLLLLLLLLLLL     UUUUUUUUU      
+                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
                          V10.134.6.Cyber Daekness
             ", Color.Green, Color.Fuchsia, 14);
 
