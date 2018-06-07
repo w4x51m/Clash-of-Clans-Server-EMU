@@ -39,7 +39,7 @@ K:::::::K    K:::::K   OO:::::::::OO   Z:::::::::::::::::Z   OO:::::::::OO      
 KKKKKKKKK    KKKKKKK     OOOOOOOOO     ZZZZZZZZZZZZZZZZZZZ     OOOOOOOOO             GGGGGG   GGGGLLLLLLLLLLLLLLLLLLLLLLLL     UUUUUUUUU      
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
                          V10.134.6.Cyber Daekness
-            ", Color.Green, Color.Fuchsia, 14);
+            ", Color.Green, Color.Blue, 14);
 
             Console.ForegroundColor = ConsoleColor.White;
 
