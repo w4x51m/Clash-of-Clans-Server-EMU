@@ -35,7 +35,7 @@ namespace GL.Servers.CoC
 
             Console.WriteLine(Environment.NewLine);
 
-            Console.WriteLine("GemsLand program is under the 'Proprietary' license.);
+            Console.WriteLine("GemsLand program is under the 'Proprietary' license.");
             Console.WriteLine("GemsLand is NOT affiliated to 'Supercell Oy'.");
             Console.WriteLine("ClashLand does NOT own 'Clash of Clans'");
             Console.WriteLine("Mod1 Super Exp gain");
