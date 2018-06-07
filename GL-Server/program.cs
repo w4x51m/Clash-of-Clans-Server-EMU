@@ -29,17 +29,17 @@ namespace GL.Servers.CoC
  |__|\__\  \______/   /________| \______/   \______| |_______| \______/  
                                                                          
                          V10.134.6.Cyber Daekness
-            ", Color.Yellow, Color.Fuchsia, 14);
+            ", Color.Green, Color.Fuchsia, 14);
 
             Console.ForegroundColor = ConsoleColor.White;
 
             Console.WriteLine(Environment.NewLine);
 
-            Console.WriteLine("GemsLand's programs are protected by our policies, available on our main website.   ");
-            Console.WriteLine("GemsLand's programs are under the 'CC Non-Commercial-NoDerivs 3.0 Unported' license.");
-            Console.WriteLine("GemsLand is NOT affiliated to 'Supercell Oy', 'Tencent', or 'Riot Games'.           ");
-            Console.WriteLine("GemsLand does NOT own 'Clash of Clans', 'Boom Beach', 'Clash Royale', or 'Hay Day'. ");
-            Console.WriteLine("MODED-10.134.6 Stabil csv,Logic,json".);
+            Console.WriteLine("GemsLand program is under the 'Proprietary' license.);
+            Console.WriteLine("GemsLand is NOT affiliated to 'Supercell Oy'.");
+            Console.WriteLine("ClashLand does NOT own 'Clash of Clans'");
+            Console.WriteLine("Mod1 Super Exp gain");
+            Console.WriteLine("Mod2 Auto Upgrade: troops, spells, heroes".);
             Console.WriteLine(Assembly.GetExecutingAssembly().GetName().Name + " is now starting..." + Environment.NewLine);
 
             Factory.Initialize();
